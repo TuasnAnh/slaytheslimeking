@@ -1,0 +1,41 @@
+
+misc.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+chest-bottom
+  rotate: false
+  xy: 1191, 726
+  size: 466, 292
+  orig: 466, 292
+  offset: 0, 0
+  index: -1
+chest_top
+  rotate: false
+  xy: 1191, 1020
+  size: 570, 360
+  orig: 570, 360
+  offset: 0, 0
+  index: -1
+process_bar
+  rotate: false
+  xy: 2, 477
+  size: 1066, 95
+  orig: 1066, 95
+  offset: 0, 0
+  index: 1
+token-glow
+  rotate: false
+  xy: 2, 574
+  size: 1187, 806
+  orig: 1187, 806
+  offset: 0, 0
+  index: -1
+token-reward
+  rotate: false
+  xy: 2, 2
+  size: 456, 473
+  orig: 456, 473
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,426 @@
+
+character_4.png
+size: 2048, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+TzuljinB_Attack
+  rotate: false
+  xy: 2, 804
+  size: 208, 141
+  orig: 270, 270
+  offset: 62, 61
+  index: 11
+TzuljinB_Attack
+  rotate: false
+  xy: 2, 642
+  size: 186, 160
+  orig: 270, 270
+  offset: 60, 64
+  index: 12
+TzuljinB_Attack
+  rotate: false
+  xy: 212, 810
+  size: 205, 135
+  orig: 270, 270
+  offset: 65, 60
+  index: 10
+TzuljinB_Attack
+  rotate: false
+  xy: 419, 811
+  size: 199, 134
+  orig: 270, 270
+  offset: 66, 60
+  index: 7
+TzuljinB_Attack
+  rotate: false
+  xy: 620, 808
+  size: 198, 137
+  orig: 270, 270
+  offset: 66, 59
+  index: 9
+TzuljinB_Attack
+  rotate: false
+  xy: 820, 809
+  size: 197, 136
+  orig: 270, 270
+  offset: 66, 59
+  index: 8
+TzuljinB_Attack
+  rotate: false
+  xy: 1019, 813
+  size: 200, 132
+  orig: 270, 270
+  offset: 67, 60
+  index: 6
+TzuljinB_Attack
+  rotate: false
+  xy: 1221, 816
+  size: 195, 129
+  orig: 270, 270
+  offset: 69, 61
+  index: 5
+TzuljinB_Attack
+  rotate: false
+  xy: 2, 466
+  size: 142, 174
+  orig: 270, 270
+  offset: 59, 66
+  index: 13
+TzuljinB_Attack
+  rotate: false
+  xy: 1418, 817
+  size: 187, 128
+  orig: 270, 270
+  offset: 71, 61
+  index: 4
+TzuljinB_Attack
+  rotate: false
+  xy: 1607, 821
+  size: 183, 124
+  orig: 270, 270
+  offset: 75, 62
+  index: 3
+TzuljinB_Attack
+  rotate: false
+  xy: 1792, 820
+  size: 177, 125
+  orig: 270, 270
+  offset: 75, 62
+  index: 2
+TzuljinB_Attack
+  rotate: false
+  xy: 2, 304
+  size: 125, 160
+  orig: 270, 270
+  offset: 60, 67
+  index: 14
+TzuljinB_Attack
+  rotate: false
+  xy: 2, 150
+  size: 123, 152
+  orig: 270, 270
+  offset: 62, 68
+  index: 15
+TzuljinB_Attack
+  rotate: false
+  xy: 2, 2
+  size: 121, 146
+  orig: 270, 270
+  offset: 64, 67
+  index: 16
+TzuljinB_Attack
+  rotate: false
+  xy: 146, 500
+  size: 120, 140
+  orig: 270, 270
+  offset: 66, 67
+  index: 17
+TzuljinB_Attack
+  rotate: false
+  xy: 268, 548
+  size: 119, 137
+  orig: 270, 270
+  offset: 68, 67
+  index: 18
+TzuljinB_Attack
+  rotate: false
+  xy: 389, 559
+  size: 168, 126
+  orig: 270, 270
+  offset: 74, 63
+  index: 1
+TzuljinB_Attack
+  rotate: false
+  xy: 759, 672
+  size: 117, 134
+  orig: 270, 270
+  offset: 70, 67
+  index: 19
+TzuljinB_Attack
+  rotate: false
+  xy: 878, 671
+  size: 137, 136
+  orig: 270, 270
+  offset: 70, 65
+  index: 23
+TzuljinB_Attack
+  rotate: false
+  xy: 729, 535
+  size: 143, 135
+  orig: 270, 270
+  offset: 71, 64
+  index: 24
+TzuljinB_Attack
+  rotate: false
+  xy: 874, 536
+  size: 148, 133
+  orig: 270, 270
+  offset: 71, 64
+  index: 25
+TzuljinB_Attack
+  rotate: false
+  xy: 268, 411
+  size: 119, 135
+  orig: 270, 270
+  offset: 70, 66
+  index: 21
+TzuljinB_Attack
+  rotate: false
+  xy: 1360, 555
+  size: 128, 136
+  orig: 270, 270
+  offset: 70, 65
+  index: 22
+TzuljinB_Attack
+  rotate: false
+  xy: 1490, 557
+  size: 117, 134
+  orig: 270, 270
+  offset: 71, 66
+  index: 20
+TzuljinB_Attack
+  rotate: false
+  xy: 1609, 569
+  size: 159, 127
+  orig: 270, 270
+  offset: 75, 63
+  index: 0
+TzuljinB_Attack
+  rotate: false
+  xy: 1682, 437
+  size: 151, 130
+  orig: 270, 270
+  offset: 73, 64
+  index: 26
+TzuljinB_Attack
+  rotate: false
+  xy: 1683, 307
+  size: 154, 128
+  orig: 270, 270
+  offset: 74, 64
+  index: 27
+TzuljinB_Attack
+  rotate: false
+  xy: 1835, 444
+  size: 156, 126
+  orig: 270, 270
+  offset: 75, 63
+  index: 29
+TzuljinB_Idle
+  rotate: false
+  xy: 1835, 444
+  size: 156, 126
+  orig: 270, 270
+  offset: 75, 63
+  index: 29
+TzuljinB_Attack
+  rotate: false
+  xy: 878, 312
+  size: 156, 126
+  orig: 270, 270
+  offset: 74, 64
+  index: 28
+TzuljinB_Idle
+  rotate: false
+  xy: 212, 687
+  size: 169, 121
+  orig: 270, 270
+  offset: 74, 62
+  index: 15
+TzuljinB_Idle
+  rotate: false
+  xy: 1019, 689
+  size: 169, 122
+  orig: 270, 270
+  offset: 74, 62
+  index: 12
+TzuljinB_Idle
+  rotate: false
+  xy: 1607, 698
+  size: 169, 121
+  orig: 270, 270
+  offset: 74, 62
+  index: 14
+TzuljinB_Idle
+  rotate: false
+  xy: 1778, 696
+  size: 169, 122
+  orig: 270, 270
+  offset: 74, 62
+  index: 16
+TzuljinB_Idle
+  rotate: false
+  xy: 1221, 693
+  size: 169, 121
+  orig: 270, 270
+  offset: 74, 62
+  index: 13
+TzuljinB_Idle
+  rotate: false
+  xy: 419, 687
+  size: 168, 122
+  orig: 270, 270
+  offset: 74, 62
+  index: 10
+TzuljinB_Idle
+  rotate: false
+  xy: 589, 684
+  size: 168, 122
+  orig: 270, 270
+  offset: 74, 62
+  index: 17
+TzuljinB_Idle
+  rotate: false
+  xy: 559, 560
+  size: 168, 122
+  orig: 270, 270
+  offset: 74, 62
+  index: 11
+TzuljinB_Idle
+  rotate: false
+  xy: 1024, 564
+  size: 164, 123
+  orig: 270, 270
+  offset: 74, 62
+  index: 7
+TzuljinB_Idle
+  rotate: false
+  xy: 1190, 569
+  size: 168, 122
+  orig: 270, 270
+  offset: 74, 62
+  index: 18
+TzuljinB_Idle
+  rotate: false
+  xy: 1024, 440
+  size: 166, 122
+  orig: 270, 270
+  offset: 74, 62
+  index: 20
+TzuljinB_Idle
+  rotate: false
+  xy: 1192, 445
+  size: 166, 122
+  orig: 270, 270
+  offset: 74, 62
+  index: 8
+TzuljinB_Idle
+  rotate: false
+  xy: 389, 435
+  size: 167, 122
+  orig: 270, 270
+  offset: 74, 62
+  index: 19
+TzuljinB_Idle
+  rotate: false
+  xy: 389, 311
+  size: 167, 122
+  orig: 270, 270
+  offset: 74, 62
+  index: 9
+TzuljinB_Idle
+  rotate: false
+  xy: 1192, 320
+  size: 164, 123
+  orig: 270, 270
+  offset: 74, 62
+  index: 21
+TzuljinB_Idle
+  rotate: false
+  xy: 1360, 431
+  size: 162, 122
+  orig: 270, 270
+  offset: 74, 63
+  index: 23
+TzuljinB_Idle
+  rotate: false
+  xy: 1358, 307
+  size: 163, 122
+  orig: 270, 270
+  offset: 74, 63
+  index: 6
+TzuljinB_Idle
+  rotate: false
+  xy: 1418, 693
+  size: 163, 122
+  orig: 270, 270
+  offset: 74, 63
+  index: 22
+TzuljinB_Idle
+  rotate: false
+  xy: 1770, 572
+  size: 162, 122
+  orig: 270, 270
+  offset: 74, 63
+  index: 5
+TzuljinB_Idle
+  rotate: false
+  xy: 1524, 429
+  size: 156, 126
+  orig: 270, 270
+  offset: 75, 63
+  index: 28
+TzuljinB_Idle
+  rotate: false
+  xy: 1523, 303
+  size: 158, 124
+  orig: 270, 270
+  offset: 75, 63
+  index: 3
+TzuljinB_Idle
+  rotate: false
+  xy: 1839, 316
+  size: 156, 126
+  orig: 270, 270
+  offset: 75, 63
+  index: 0
+TzuljinB_Idle
+  rotate: false
+  xy: 1839, 190
+  size: 158, 124
+  orig: 270, 270
+  offset: 75, 63
+  index: 25
+TzuljinB_Idle
+  rotate: false
+  xy: 559, 435
+  size: 159, 123
+  orig: 270, 270
+  offset: 75, 63
+  index: 24
+TzuljinB_Idle
+  rotate: false
+  xy: 558, 310
+  size: 159, 123
+  orig: 270, 270
+  offset: 75, 63
+  index: 4
+TzuljinB_Idle
+  rotate: false
+  xy: 720, 407
+  size: 156, 126
+  orig: 270, 270
+  offset: 75, 63
+  index: 27
+TzuljinB_Idle
+  rotate: false
+  xy: 719, 280
+  size: 157, 125
+  orig: 270, 270
+  offset: 75, 63
+  index: 2
+TzuljinB_Idle
+  rotate: false
+  xy: 878, 185
+  size: 157, 125
+  orig: 270, 270
+  offset: 75, 63
+  index: 26
+TzuljinB_Idle
+  rotate: false
+  xy: 125, 22
+  size: 156, 126
+  orig: 270, 270
+  offset: 75, 63
+  index: 1

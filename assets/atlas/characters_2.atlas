@@ -1,0 +1,2358 @@
+
+characters_2.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 99, 1187
+  size: 89, 101
+  orig: 256, 256
+  offset: 73, 87
+  index: 11
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 1198, 1835
+  size: 89, 100
+  orig: 256, 256
+  offset: 75, 88
+  index: 10
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 1480, 1843
+  size: 91, 92
+  orig: 256, 256
+  offset: 90, 88
+  index: 22
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 1666, 1839
+  size: 90, 96
+  orig: 256, 256
+  offset: 77, 89
+  index: 9
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 1940, 1835
+  size: 86, 100
+  orig: 256, 256
+  offset: 76, 86
+  index: 12
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 1694, 1745
+  size: 91, 92
+  orig: 256, 256
+  offset: 90, 86
+  index: 21
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 1787, 1744
+  size: 91, 92
+  orig: 256, 256
+  offset: 90, 88
+  index: 23
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 757, 1636
+  size: 88, 95
+  orig: 256, 256
+  offset: 80, 89
+  index: 8
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 847, 1632
+  size: 78, 95
+  orig: 256, 256
+  offset: 90, 88
+  index: 4
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 760, 1539
+  size: 85, 95
+  orig: 256, 256
+  offset: 83, 89
+  index: 7
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 847, 1538
+  size: 85, 92
+  orig: 256, 256
+  offset: 93, 88
+  index: 25
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 716, 795
+  size: 72, 98
+  orig: 256, 256
+  offset: 89, 85
+  index: 13
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 736, 206
+  size: 82, 93
+  orig: 256, 256
+  offset: 93, 80
+  index: 17
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 969, 242
+  size: 77, 95
+  orig: 256, 256
+  offset: 91, 89
+  index: 1
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 1265, 1548
+  size: 89, 92
+  orig: 256, 256
+  offset: 91, 83
+  index: 19
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 1437, 1639
+  size: 82, 95
+  orig: 256, 256
+  offset: 86, 89
+  index: 6
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 1604, 1650
+  size: 89, 92
+  orig: 256, 256
+  offset: 91, 88
+  index: 24
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 1523, 1546
+  size: 80, 95
+  orig: 256, 256
+  offset: 88, 88
+  index: 5
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 1787, 1557
+  size: 86, 92
+  orig: 256, 256
+  offset: 92, 82
+  index: 18
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 932, 1354
+  size: 89, 92
+  orig: 256, 256
+  offset: 91, 85
+  index: 20
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 1104, 1446
+  size: 77, 95
+  orig: 256, 256
+  offset: 91, 88
+  index: 3
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 1023, 1345
+  size: 78, 93
+  orig: 256, 256
+  offset: 97, 88
+  index: 26
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 945, 1161
+  size: 76, 94
+  orig: 256, 256
+  offset: 93, 88
+  index: 29
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 983, 1056
+  size: 77, 95
+  orig: 256, 256
+  offset: 91, 89
+  index: 0
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 1079, 960
+  size: 66, 94
+  orig: 256, 256
+  offset: 97, 84
+  index: 14
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 1099, 480
+  size: 77, 94
+  orig: 256, 256
+  offset: 91, 89
+  index: 2
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 1114, 384
+  size: 74, 94
+  orig: 256, 256
+  offset: 96, 88
+  index: 28
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 1127, 193
+  size: 77, 93
+  orig: 256, 256
+  offset: 95, 80
+  index: 16
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 971, 52
+  size: 75, 93
+  orig: 256, 256
+  offset: 97, 88
+  index: 27
+PlagueDoctorA_Attack
+  rotate: false
+  xy: 1147, 965
+  size: 70, 93
+  orig: 256, 256
+  offset: 97, 81
+  index: 15
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 1009, 1636
+  size: 81, 94
+  orig: 256, 256
+  offset: 87, 88
+  index: 4
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 927, 1636
+  size: 80, 93
+  orig: 256, 256
+  offset: 88, 87
+  index: 6
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 676, 1636
+  size: 79, 97
+  orig: 256, 256
+  offset: 89, 88
+  index: 0
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 735, 399
+  size: 73, 93
+  orig: 256, 256
+  offset: 94, 84
+  index: 17
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 736, 301
+  size: 79, 96
+  orig: 256, 256
+  offset: 89, 88
+  index: 1
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 799, 112
+  size: 75, 92
+  orig: 256, 256
+  offset: 92, 85
+  index: 9
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 803, 14
+  size: 81, 96
+  orig: 256, 256
+  offset: 88, 88
+  index: 2
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 1184, 1644
+  size: 81, 93
+  orig: 256, 256
+  offset: 87, 88
+  index: 5
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 1521, 1643
+  size: 81, 95
+  orig: 256, 256
+  offset: 87, 88
+  index: 3
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 1968, 1625
+  size: 78, 95
+  orig: 256, 256
+  offset: 90, 88
+  index: 29
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 1447, 1544
+  size: 74, 93
+  orig: 256, 256
+  offset: 93, 84
+  index: 22
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 1966, 1528
+  size: 80, 95
+  orig: 256, 256
+  offset: 88, 88
+  index: 28
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 1183, 1451
+  size: 81, 94
+  orig: 256, 256
+  offset: 87, 88
+  index: 27
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 1266, 1454
+  size: 81, 92
+  orig: 256, 256
+  offset: 87, 88
+  index: 26
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 969, 147
+  size: 77, 93
+  orig: 256, 256
+  offset: 90, 86
+  index: 7
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 1048, 97
+  size: 76, 93
+  orig: 256, 256
+  offset: 91, 85
+  index: 8
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 1048, 2
+  size: 74, 93
+  orig: 256, 256
+  offset: 93, 84
+  index: 23
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 1124, 2
+  size: 73, 93
+  orig: 256, 256
+  offset: 94, 84
+  index: 14
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 1126, 97
+  size: 73, 93
+  orig: 256, 256
+  offset: 94, 84
+  index: 19
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 1199, 2
+  size: 73, 93
+  orig: 256, 256
+  offset: 93, 84
+  index: 11
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 1689, 1461
+  size: 73, 93
+  orig: 256, 256
+  offset: 94, 84
+  index: 16
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 1764, 1463
+  size: 77, 92
+  orig: 256, 256
+  offset: 90, 86
+  index: 25
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 1843, 1460
+  size: 74, 92
+  orig: 256, 256
+  offset: 93, 85
+  index: 24
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 1201, 98
+  size: 73, 93
+  orig: 256, 256
+  offset: 94, 84
+  index: 21
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 1919, 1434
+  size: 74, 92
+  orig: 256, 256
+  offset: 93, 85
+  index: 10
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 1102, 1250
+  size: 72, 93
+  orig: 256, 256
+  offset: 94, 84
+  index: 13
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 1102, 1155
+  size: 73, 93
+  orig: 256, 256
+  offset: 94, 84
+  index: 18
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 1103, 1345
+  size: 73, 93
+  orig: 256, 256
+  offset: 94, 84
+  index: 15
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 1141, 1060
+  size: 73, 93
+  orig: 256, 256
+  offset: 94, 84
+  index: 20
+PlagueDoctorA_Cast
+  rotate: false
+  xy: 1158, 870
+  size: 72, 93
+  orig: 256, 256
+  offset: 94, 84
+  index: 12
+PlagueDoctorA_Idle
+  rotate: false
+  xy: 820, 206
+  size: 77, 94
+  orig: 256, 256
+  offset: 91, 89
+  index: 10
+PlagueDoctorA_Idle
+  rotate: false
+  xy: 957, 339
+  size: 77, 95
+  orig: 256, 256
+  offset: 91, 89
+  index: 15
+PlagueDoctorA_Idle
+  rotate: false
+  xy: 1358, 1639
+  size: 77, 94
+  orig: 256, 256
+  offset: 91, 88
+  index: 23
+PlagueDoctorA_Idle
+  rotate: false
+  xy: 1025, 1440
+  size: 77, 94
+  orig: 256, 256
+  offset: 91, 88
+  index: 2
+PlagueDoctorA_Idle
+  rotate: false
+  xy: 1531, 1450
+  size: 77, 94
+  orig: 256, 256
+  offset: 91, 88
+  index: 20
+PlagueDoctorA_Idle
+  rotate: false
+  xy: 1610, 1459
+  size: 77, 95
+  orig: 256, 256
+  offset: 91, 89
+  index: 14
+PlagueDoctorA_Idle
+  rotate: false
+  xy: 944, 1257
+  size: 77, 95
+  orig: 256, 256
+  offset: 91, 88
+  index: 19
+PlagueDoctorA_Idle
+  rotate: false
+  xy: 1023, 1249
+  size: 77, 94
+  orig: 256, 256
+  offset: 91, 89
+  index: 7
+PlagueDoctorA_Idle
+  rotate: false
+  xy: 1023, 1153
+  size: 77, 94
+  orig: 256, 256
+  offset: 91, 89
+  index: 12
+PlagueDoctorA_Idle
+  rotate: false
+  xy: 1062, 1056
+  size: 77, 95
+  orig: 256, 256
+  offset: 91, 89
+  index: 16
+PlagueDoctorA_Idle
+  rotate: false
+  xy: 1000, 959
+  size: 77, 95
+  orig: 256, 256
+  offset: 91, 89
+  index: 13
+PlagueDoctorA_Idle
+  rotate: false
+  xy: 1000, 863
+  size: 77, 94
+  orig: 256, 256
+  offset: 91, 89
+  index: 17
+PlagueDoctorA_Idle
+  rotate: false
+  xy: 1079, 864
+  size: 77, 94
+  orig: 256, 256
+  offset: 91, 88
+  index: 22
+PlagueDoctorA_Idle
+  rotate: false
+  xy: 1007, 767
+  size: 77, 94
+  orig: 256, 256
+  offset: 91, 89
+  index: 9
+PlagueDoctorA_Idle
+  rotate: false
+  xy: 1086, 768
+  size: 77, 94
+  orig: 256, 256
+  offset: 91, 88
+  index: 1
+PlagueDoctorA_Idle
+  rotate: false
+  xy: 1013, 671
+  size: 77, 94
+  orig: 256, 256
+  offset: 91, 89
+  index: 6
+PlagueDoctorA_Idle
+  rotate: false
+  xy: 1092, 672
+  size: 77, 94
+  orig: 256, 256
+  offset: 91, 89
+  index: 11
+PlagueDoctorA_Idle
+  rotate: false
+  xy: 1015, 575
+  size: 77, 94
+  orig: 256, 256
+  offset: 91, 88
+  index: 3
+PlagueDoctorA_Idle
+  rotate: false
+  xy: 1094, 576
+  size: 77, 94
+  orig: 256, 256
+  offset: 91, 88
+  index: 21
+PlagueDoctorA_Idle
+  rotate: false
+  xy: 1020, 479
+  size: 77, 94
+  orig: 256, 256
+  offset: 91, 89
+  index: 8
+PlagueDoctorA_Idle
+  rotate: false
+  xy: 1036, 383
+  size: 76, 94
+  orig: 256, 256
+  offset: 92, 88
+  index: 0
+PlagueDoctorA_Idle
+  rotate: false
+  xy: 1048, 287
+  size: 77, 94
+  orig: 256, 256
+  offset: 91, 89
+  index: 5
+PlagueDoctorA_Idle
+  rotate: false
+  xy: 1127, 288
+  size: 77, 94
+  orig: 256, 256
+  offset: 91, 89
+  index: 18
+PlagueDoctorA_Idle
+  rotate: false
+  xy: 1048, 192
+  size: 77, 93
+  orig: 256, 256
+  offset: 91, 89
+  index: 4
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 2, 639
+  size: 91, 108
+  orig: 256, 256
+  offset: 75, 88
+  index: 22
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 2, 195
+  size: 90, 109
+  orig: 256, 256
+  offset: 75, 89
+  index: 20
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 828, 1938
+  size: 91, 108
+  orig: 256, 256
+  offset: 75, 89
+  index: 21
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 921, 1938
+  size: 91, 108
+  orig: 256, 256
+  offset: 75, 88
+  index: 23
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 1106, 1938
+  size: 90, 108
+  orig: 256, 256
+  offset: 89, 86
+  index: 9
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 1562, 1937
+  size: 89, 109
+  orig: 256, 256
+  offset: 76, 90
+  index: 19
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 100, 1077
+  size: 89, 108
+  orig: 256, 256
+  offset: 76, 88
+  index: 24
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 99, 968
+  size: 89, 107
+  orig: 256, 256
+  offset: 94, 88
+  index: 11
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 94, 195
+  size: 89, 107
+  orig: 256, 256
+  offset: 92, 87
+  index: 10
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 93, 85
+  size: 88, 108
+  orig: 256, 256
+  offset: 88, 86
+  index: 8
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 264, 1834
+  size: 86, 109
+  orig: 256, 256
+  offset: 78, 91
+  index: 18
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 270, 1723
+  size: 82, 109
+  orig: 256, 256
+  offset: 81, 92
+  index: 17
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 354, 1727
+  size: 86, 108
+  orig: 256, 256
+  offset: 94, 89
+  index: 12
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 185, 413
+  size: 85, 108
+  orig: 256, 256
+  offset: 78, 88
+  index: 25
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 185, 304
+  size: 85, 107
+  orig: 256, 256
+  offset: 88, 87
+  index: 7
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 442, 1727
+  size: 78, 108
+  orig: 256, 256
+  offset: 88, 87
+  index: 4
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 768, 1733
+  size: 82, 107
+  orig: 256, 256
+  offset: 88, 87
+  index: 6
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 927, 1731
+  size: 80, 108
+  orig: 256, 256
+  offset: 88, 87
+  index: 5
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 339, 965
+  size: 66, 110
+  orig: 256, 256
+  offset: 93, 92
+  index: 14
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 339, 855
+  size: 75, 108
+  orig: 256, 256
+  offset: 84, 88
+  index: 27
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 353, 523
+  size: 77, 109
+  orig: 256, 256
+  offset: 84, 92
+  index: 16
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 355, 304
+  size: 77, 107
+  orig: 256, 256
+  offset: 88, 87
+  index: 1
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 327, 1525
+  size: 72, 109
+  orig: 256, 256
+  offset: 95, 91
+  index: 13
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 348, 1194
+  size: 70, 109
+  orig: 256, 256
+  offset: 89, 92
+  index: 15
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 407, 974
+  size: 77, 108
+  orig: 256, 256
+  offset: 88, 87
+  index: 3
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 419, 754
+  size: 76, 108
+  orig: 256, 256
+  offset: 87, 87
+  index: 29
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 434, 314
+  size: 77, 108
+  orig: 256, 256
+  offset: 88, 86
+  index: 0
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 487, 94
+  size: 79, 108
+  orig: 256, 256
+  offset: 81, 88
+  index: 26
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 517, 211
+  size: 77, 107
+  orig: 256, 256
+  offset: 88, 87
+  index: 2
+PlagueDoctorB_Attack
+  rotate: false
+  xy: 470, 1527
+  size: 74, 107
+  orig: 256, 256
+  offset: 86, 88
+  index: 28
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 101, 1514
+  size: 73, 111
+  orig: 256, 256
+  offset: 89, 88
+  index: 19
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 101, 1401
+  size: 73, 111
+  orig: 256, 256
+  offset: 90, 88
+  index: 11
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 101, 1290
+  size: 80, 109
+  orig: 256, 256
+  offset: 88, 88
+  index: 6
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 119, 1715
+  size: 74, 111
+  orig: 256, 256
+  offset: 89, 88
+  index: 24
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 189, 1829
+  size: 73, 111
+  orig: 256, 256
+  offset: 89, 88
+  index: 16
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 195, 1716
+  size: 73, 111
+  orig: 256, 256
+  offset: 89, 88
+  index: 21
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 187, 856
+  size: 76, 110
+  orig: 256, 256
+  offset: 89, 88
+  index: 8
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 186, 744
+  size: 77, 110
+  orig: 256, 256
+  offset: 89, 88
+  index: 7
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 265, 855
+  size: 72, 111
+  orig: 256, 256
+  offset: 90, 88
+  index: 13
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 265, 742
+  size: 73, 111
+  orig: 256, 256
+  offset: 89, 88
+  index: 18
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 270, 523
+  size: 81, 109
+  orig: 256, 256
+  offset: 88, 88
+  index: 26
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 272, 413
+  size: 81, 108
+  orig: 256, 256
+  offset: 88, 88
+  index: 5
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 272, 304
+  size: 81, 107
+  orig: 256, 256
+  offset: 88, 88
+  index: 3
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 522, 1728
+  size: 74, 111
+  orig: 256, 256
+  offset: 89, 88
+  index: 10
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 852, 1729
+  size: 73, 111
+  orig: 256, 256
+  offset: 89, 88
+  index: 15
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 1009, 1732
+  size: 81, 107
+  orig: 256, 256
+  offset: 88, 88
+  index: 4
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 1347, 1735
+  size: 81, 106
+  orig: 256, 256
+  offset: 87, 88
+  index: 2
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 1972, 1722
+  size: 74, 111
+  orig: 256, 256
+  offset: 89, 88
+  index: 23
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 176, 1523
+  size: 73, 111
+  orig: 256, 256
+  offset: 89, 88
+  index: 20
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 176, 1410
+  size: 73, 111
+  orig: 256, 256
+  offset: 89, 88
+  index: 17
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 183, 1297
+  size: 72, 111
+  orig: 256, 256
+  offset: 90, 88
+  index: 12
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 251, 1523
+  size: 74, 111
+  orig: 256, 256
+  offset: 89, 88
+  index: 22
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 251, 1410
+  size: 75, 111
+  orig: 256, 256
+  offset: 89, 88
+  index: 9
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 257, 1297
+  size: 73, 111
+  orig: 256, 256
+  offset: 89, 88
+  index: 14
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 340, 743
+  size: 77, 110
+  orig: 256, 256
+  offset: 89, 88
+  index: 25
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 346, 634
+  size: 78, 107
+  orig: 256, 256
+  offset: 88, 88
+  index: 29
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 357, 196
+  size: 79, 106
+  orig: 256, 256
+  offset: 88, 88
+  index: 0
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 511, 537
+  size: 80, 107
+  orig: 256, 256
+  offset: 88, 88
+  index: 28
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 512, 428
+  size: 81, 107
+  orig: 256, 256
+  offset: 88, 88
+  index: 27
+PlagueDoctorB_Cast
+  rotate: false
+  xy: 513, 320
+  size: 79, 106
+  orig: 256, 256
+  offset: 88, 88
+  index: 1
+PlagueDoctorB_Idle
+  rotate: false
+  xy: 186, 634
+  size: 77, 108
+  orig: 256, 256
+  offset: 88, 86
+  index: 12
+PlagueDoctorB_Idle
+  rotate: false
+  xy: 190, 968
+  size: 77, 107
+  orig: 256, 256
+  offset: 88, 87
+  index: 17
+PlagueDoctorB_Idle
+  rotate: false
+  xy: 183, 85
+  size: 77, 108
+  orig: 256, 256
+  offset: 88, 87
+  index: 4
+PlagueDoctorB_Idle
+  rotate: false
+  xy: 190, 1187
+  size: 77, 108
+  orig: 256, 256
+  offset: 88, 88
+  index: 22
+PlagueDoctorB_Idle
+  rotate: false
+  xy: 191, 1077
+  size: 77, 108
+  orig: 256, 256
+  offset: 88, 86
+  index: 9
+PlagueDoctorB_Idle
+  rotate: false
+  xy: 269, 1187
+  size: 77, 108
+  orig: 256, 256
+  offset: 88, 87
+  index: 1
+PlagueDoctorB_Idle
+  rotate: false
+  xy: 270, 1077
+  size: 77, 108
+  orig: 256, 256
+  offset: 88, 86
+  index: 14
+PlagueDoctorB_Idle
+  rotate: false
+  xy: 355, 413
+  size: 77, 108
+  orig: 256, 256
+  offset: 88, 87
+  index: 6
+PlagueDoctorB_Idle
+  rotate: false
+  xy: 328, 1415
+  size: 77, 108
+  orig: 256, 256
+  offset: 88, 87
+  index: 19
+PlagueDoctorB_Idle
+  rotate: false
+  xy: 332, 1305
+  size: 77, 108
+  orig: 256, 256
+  offset: 88, 86
+  index: 11
+PlagueDoctorB_Idle
+  rotate: false
+  xy: 349, 1084
+  size: 77, 108
+  orig: 256, 256
+  offset: 88, 87
+  index: 3
+PlagueDoctorB_Idle
+  rotate: false
+  xy: 416, 864
+  size: 77, 108
+  orig: 256, 256
+  offset: 88, 86
+  index: 16
+PlagueDoctorB_Idle
+  rotate: false
+  xy: 426, 644
+  size: 77, 108
+  orig: 256, 256
+  offset: 88, 87
+  index: 8
+PlagueDoctorB_Idle
+  rotate: false
+  xy: 432, 534
+  size: 77, 108
+  orig: 256, 256
+  offset: 88, 88
+  index: 21
+PlagueDoctorB_Idle
+  rotate: false
+  xy: 434, 424
+  size: 76, 108
+  orig: 256, 256
+  offset: 88, 87
+  index: 0
+PlagueDoctorB_Idle
+  rotate: false
+  xy: 438, 204
+  size: 77, 108
+  orig: 256, 256
+  offset: 88, 86
+  index: 13
+PlagueDoctorB_Idle
+  rotate: false
+  xy: 407, 1416
+  size: 77, 108
+  orig: 256, 256
+  offset: 88, 87
+  index: 5
+PlagueDoctorB_Idle
+  rotate: false
+  xy: 411, 1306
+  size: 77, 108
+  orig: 256, 256
+  offset: 88, 87
+  index: 18
+PlagueDoctorB_Idle
+  rotate: false
+  xy: 420, 1196
+  size: 77, 108
+  orig: 256, 256
+  offset: 88, 86
+  index: 10
+PlagueDoctorB_Idle
+  rotate: false
+  xy: 428, 1086
+  size: 77, 108
+  orig: 256, 256
+  offset: 88, 88
+  index: 23
+PlagueDoctorB_Idle
+  rotate: false
+  xy: 486, 976
+  size: 77, 108
+  orig: 256, 256
+  offset: 88, 87
+  index: 2
+PlagueDoctorB_Idle
+  rotate: false
+  xy: 495, 866
+  size: 77, 108
+  orig: 256, 256
+  offset: 88, 86
+  index: 15
+PlagueDoctorB_Idle
+  rotate: false
+  xy: 497, 756
+  size: 77, 108
+  orig: 256, 256
+  offset: 88, 87
+  index: 20
+PlagueDoctorB_Idle
+  rotate: false
+  xy: 505, 646
+  size: 77, 108
+  orig: 256, 256
+  offset: 88, 87
+  index: 7
+WitchDoctorA_Attack
+  rotate: false
+  xy: 2, 1941
+  size: 116, 105
+  orig: 256, 256
+  offset: 44, 87
+  index: 11
+WitchDoctorA_Attack
+  rotate: false
+  xy: 2, 1835
+  size: 115, 104
+  orig: 256, 256
+  offset: 45, 86
+  index: 12
+WitchDoctorA_Attack
+  rotate: false
+  xy: 120, 1942
+  size: 114, 104
+  orig: 256, 256
+  offset: 46, 88
+  index: 10
+WitchDoctorA_Attack
+  rotate: false
+  xy: 354, 1945
+  size: 95, 101
+  orig: 256, 256
+  offset: 64, 85
+  index: 13
+WitchDoctorA_Attack
+  rotate: false
+  xy: 119, 1828
+  size: 68, 111
+  orig: 256, 256
+  offset: 92, 70
+  index: 14
+WitchDoctorA_Attack
+  rotate: false
+  xy: 443, 1841
+  size: 92, 100
+  orig: 256, 256
+  offset: 70, 89
+  index: 9
+WitchDoctorA_Attack
+  rotate: false
+  xy: 537, 1845
+  size: 97, 94
+  orig: 256, 256
+  offset: 97, 87
+  index: 21
+WitchDoctorA_Attack
+  rotate: false
+  xy: 636, 1845
+  size: 97, 92
+  orig: 256, 256
+  offset: 97, 86
+  index: 19
+WitchDoctorA_Attack
+  rotate: false
+  xy: 828, 1842
+  size: 97, 94
+  orig: 256, 256
+  offset: 97, 86
+  index: 20
+WitchDoctorA_Attack
+  rotate: false
+  xy: 927, 1841
+  size: 96, 95
+  orig: 256, 256
+  offset: 97, 88
+  index: 22
+WitchDoctorA_Attack
+  rotate: false
+  xy: 1025, 1841
+  size: 95, 95
+  orig: 256, 256
+  offset: 97, 88
+  index: 23
+WitchDoctorA_Attack
+  rotate: false
+  xy: 1289, 1843
+  size: 95, 92
+  orig: 256, 256
+  offset: 97, 85
+  index: 18
+WitchDoctorA_Attack
+  rotate: false
+  xy: 1386, 1843
+  size: 92, 92
+  orig: 256, 256
+  offset: 97, 84
+  index: 17
+WitchDoctorA_Attack
+  rotate: false
+  xy: 1573, 1840
+  size: 91, 95
+  orig: 256, 256
+  offset: 97, 88
+  index: 24
+WitchDoctorA_Attack
+  rotate: false
+  xy: 652, 2
+  size: 79, 98
+  orig: 256, 256
+  offset: 83, 89
+  index: 6
+WitchDoctorA_Attack
+  rotate: false
+  xy: 846, 1437
+  size: 84, 99
+  orig: 256, 256
+  offset: 78, 89
+  index: 8
+WitchDoctorA_Attack
+  rotate: false
+  xy: 718, 1102
+  size: 67, 104
+  orig: 256, 256
+  offset: 94, 73
+  index: 15
+WitchDoctorA_Attack
+  rotate: false
+  xy: 1095, 1543
+  size: 83, 99
+  orig: 256, 256
+  offset: 79, 89
+  index: 7
+WitchDoctorA_Attack
+  rotate: false
+  xy: 705, 996
+  size: 68, 99
+  orig: 256, 256
+  offset: 94, 88
+  index: 3
+WitchDoctorA_Attack
+  rotate: false
+  xy: 714, 895
+  size: 74, 99
+  orig: 256, 256
+  offset: 88, 88
+  index: 5
+WitchDoctorA_Attack
+  rotate: false
+  xy: 724, 694
+  size: 71, 99
+  orig: 256, 256
+  offset: 91, 88
+  index: 4
+WitchDoctorA_Attack
+  rotate: false
+  xy: 733, 594
+  size: 68, 98
+  orig: 256, 256
+  offset: 94, 89
+  index: 1
+WitchDoctorA_Attack
+  rotate: false
+  xy: 775, 1002
+  size: 67, 98
+  orig: 256, 256
+  offset: 95, 88
+  index: 29
+WitchDoctorA_Attack
+  rotate: false
+  xy: 803, 602
+  size: 68, 98
+  orig: 256, 256
+  offset: 94, 89
+  index: 0
+WitchDoctorA_Attack
+  rotate: false
+  xy: 886, 14
+  size: 83, 96
+  orig: 256, 256
+  offset: 97, 88
+  index: 25
+WitchDoctorA_Attack
+  rotate: false
+  xy: 860, 924
+  size: 68, 98
+  orig: 256, 256
+  offset: 94, 89
+  index: 2
+WitchDoctorA_Attack
+  rotate: false
+  xy: 860, 824
+  size: 68, 98
+  orig: 256, 256
+  offset: 95, 88
+  index: 28
+WitchDoctorA_Attack
+  rotate: false
+  xy: 914, 1029
+  size: 67, 97
+  orig: 256, 256
+  offset: 96, 88
+  index: 27
+WitchDoctorA_Attack
+  rotate: false
+  xy: 950, 436
+  size: 68, 96
+  orig: 256, 256
+  offset: 97, 88
+  index: 26
+WitchDoctorA_Attack
+  rotate: false
+  xy: 1180, 1547
+  size: 83, 95
+  orig: 256, 256
+  offset: 96, 81
+  index: 16
+WitchDoctorA_Cast
+  rotate: false
+  xy: 735, 1842
+  size: 91, 95
+  orig: 256, 256
+  offset: 71, 88
+  index: 6
+WitchDoctorA_Cast
+  rotate: false
+  xy: 1122, 1835
+  size: 74, 101
+  orig: 256, 256
+  offset: 88, 88
+  index: 0
+WitchDoctorA_Cast
+  rotate: false
+  xy: 1758, 1839
+  size: 89, 96
+  orig: 256, 256
+  offset: 73, 88
+  index: 26
+WitchDoctorA_Cast
+  rotate: false
+  xy: 1849, 1838
+  size: 89, 97
+  orig: 256, 256
+  offset: 73, 88
+  index: 5
+WitchDoctorA_Cast
+  rotate: false
+  xy: 1092, 1739
+  size: 91, 94
+  orig: 256, 256
+  offset: 71, 88
+  index: 7
+WitchDoctorA_Cast
+  rotate: false
+  xy: 1185, 1740
+  size: 90, 93
+  orig: 256, 256
+  offset: 72, 88
+  index: 9
+WitchDoctorA_Cast
+  rotate: false
+  xy: 1514, 1740
+  size: 86, 98
+  orig: 256, 256
+  offset: 76, 88
+  index: 4
+WitchDoctorA_Cast
+  rotate: false
+  xy: 1602, 1744
+  size: 90, 93
+  orig: 256, 256
+  offset: 72, 88
+  index: 8
+WitchDoctorA_Cast
+  rotate: false
+  xy: 1880, 1741
+  size: 90, 92
+  orig: 256, 256
+  offset: 72, 88
+  index: 24
+WitchDoctorA_Cast
+  rotate: false
+  xy: 1092, 1644
+  size: 90, 93
+  orig: 256, 256
+  offset: 72, 88
+  index: 25
+WitchDoctorA_Cast
+  rotate: false
+  xy: 568, 2
+  size: 82, 98
+  orig: 256, 256
+  offset: 80, 88
+  index: 27
+WitchDoctorA_Cast
+  rotate: false
+  xy: 598, 1636
+  size: 76, 98
+  orig: 256, 256
+  offset: 86, 88
+  index: 28
+WitchDoctorA_Cast
+  rotate: false
+  xy: 934, 1542
+  size: 89, 92
+  orig: 256, 256
+  offset: 73, 88
+  index: 14
+WitchDoctorA_Cast
+  rotate: false
+  xy: 786, 1225
+  size: 76, 100
+  orig: 256, 256
+  offset: 86, 88
+  index: 1
+WitchDoctorA_Cast
+  rotate: false
+  xy: 864, 1229
+  size: 78, 100
+  orig: 256, 256
+  offset: 84, 88
+  index: 2
+WitchDoctorA_Cast
+  rotate: false
+  xy: 787, 1124
+  size: 82, 99
+  orig: 256, 256
+  offset: 80, 88
+  index: 3
+WitchDoctorA_Cast
+  rotate: false
+  xy: 871, 1128
+  size: 72, 99
+  orig: 256, 256
+  offset: 90, 88
+  index: 29
+WitchDoctorA_Cast
+  rotate: false
+  xy: 708, 112
+  size: 89, 92
+  orig: 256, 256
+  offset: 73, 88
+  index: 19
+WitchDoctorA_Cast
+  rotate: false
+  xy: 876, 112
+  size: 89, 92
+  orig: 256, 256
+  offset: 73, 88
+  index: 11
+WitchDoctorA_Cast
+  rotate: false
+  xy: 1267, 1642
+  size: 89, 91
+  orig: 256, 256
+  offset: 73, 88
+  index: 16
+WitchDoctorA_Cast
+  rotate: false
+  xy: 1356, 1545
+  size: 89, 92
+  orig: 256, 256
+  offset: 73, 88
+  index: 21
+WitchDoctorA_Cast
+  rotate: false
+  xy: 1695, 1651
+  size: 89, 92
+  orig: 256, 256
+  offset: 73, 88
+  index: 13
+WitchDoctorA_Cast
+  rotate: false
+  xy: 1786, 1651
+  size: 89, 91
+  orig: 256, 256
+  offset: 73, 88
+  index: 18
+WitchDoctorA_Cast
+  rotate: false
+  xy: 1877, 1647
+  size: 89, 92
+  orig: 256, 256
+  offset: 73, 88
+  index: 10
+WitchDoctorA_Cast
+  rotate: false
+  xy: 1605, 1556
+  size: 89, 92
+  orig: 256, 256
+  offset: 73, 88
+  index: 23
+WitchDoctorA_Cast
+  rotate: false
+  xy: 1696, 1557
+  size: 89, 92
+  orig: 256, 256
+  offset: 73, 88
+  index: 20
+WitchDoctorA_Cast
+  rotate: false
+  xy: 1875, 1554
+  size: 89, 91
+  orig: 256, 256
+  offset: 73, 88
+  index: 15
+WitchDoctorA_Cast
+  rotate: false
+  xy: 934, 1448
+  size: 89, 92
+  orig: 256, 256
+  offset: 73, 88
+  index: 12
+WitchDoctorA_Cast
+  rotate: false
+  xy: 1349, 1452
+  size: 89, 91
+  orig: 256, 256
+  offset: 73, 88
+  index: 17
+WitchDoctorA_Cast
+  rotate: false
+  xy: 1440, 1450
+  size: 89, 92
+  orig: 256, 256
+  offset: 73, 88
+  index: 22
+WitchDoctorA_Idle
+  rotate: false
+  xy: 1277, 1735
+  size: 68, 98
+  orig: 256, 256
+  offset: 94, 88
+  index: 2
+WitchDoctorA_Idle
+  rotate: false
+  xy: 1025, 1536
+  size: 68, 98
+  orig: 256, 256
+  offset: 94, 89
+  index: 15
+WitchDoctorA_Idle
+  rotate: false
+  xy: 735, 494
+  size: 68, 98
+  orig: 256, 256
+  offset: 94, 88
+  index: 20
+WitchDoctorA_Idle
+  rotate: false
+  xy: 664, 348
+  size: 69, 97
+  orig: 256, 256
+  offset: 93, 88
+  index: 23
+WitchDoctorA_Idle
+  rotate: false
+  xy: 666, 248
+  size: 68, 98
+  orig: 256, 256
+  offset: 94, 89
+  index: 12
+WitchDoctorA_Idle
+  rotate: false
+  xy: 733, 12
+  size: 68, 98
+  orig: 256, 256
+  offset: 94, 89
+  index: 17
+WitchDoctorA_Idle
+  rotate: false
+  xy: 790, 902
+  size: 68, 98
+  orig: 256, 256
+  offset: 94, 89
+  index: 9
+WitchDoctorA_Idle
+  rotate: false
+  xy: 790, 802
+  size: 68, 98
+  orig: 256, 256
+  offset: 94, 88
+  index: 1
+WitchDoctorA_Idle
+  rotate: false
+  xy: 797, 702
+  size: 68, 98
+  orig: 256, 256
+  offset: 94, 89
+  index: 14
+WitchDoctorA_Idle
+  rotate: false
+  xy: 805, 502
+  size: 68, 98
+  orig: 256, 256
+  offset: 94, 88
+  index: 19
+WitchDoctorA_Idle
+  rotate: false
+  xy: 810, 402
+  size: 68, 98
+  orig: 256, 256
+  offset: 94, 89
+  index: 11
+WitchDoctorA_Idle
+  rotate: false
+  xy: 817, 302
+  size: 68, 98
+  orig: 256, 256
+  offset: 94, 88
+  index: 3
+WitchDoctorA_Idle
+  rotate: false
+  xy: 844, 1024
+  size: 68, 98
+  orig: 256, 256
+  offset: 94, 89
+  index: 16
+WitchDoctorA_Idle
+  rotate: false
+  xy: 867, 724
+  size: 68, 98
+  orig: 256, 256
+  offset: 94, 88
+  index: 21
+WitchDoctorA_Idle
+  rotate: false
+  xy: 873, 624
+  size: 68, 98
+  orig: 256, 256
+  offset: 94, 89
+  index: 8
+WitchDoctorA_Idle
+  rotate: false
+  xy: 875, 524
+  size: 68, 98
+  orig: 256, 256
+  offset: 94, 88
+  index: 0
+WitchDoctorA_Idle
+  rotate: false
+  xy: 880, 424
+  size: 68, 98
+  orig: 256, 256
+  offset: 94, 89
+  index: 13
+WitchDoctorA_Idle
+  rotate: false
+  xy: 887, 324
+  size: 68, 98
+  orig: 256, 256
+  offset: 94, 89
+  index: 18
+WitchDoctorA_Idle
+  rotate: false
+  xy: 899, 224
+  size: 68, 98
+  orig: 256, 256
+  offset: 94, 89
+  index: 10
+WitchDoctorA_Idle
+  rotate: false
+  xy: 930, 930
+  size: 68, 97
+  orig: 256, 256
+  offset: 94, 89
+  index: 7
+WitchDoctorA_Idle
+  rotate: false
+  xy: 930, 831
+  size: 68, 97
+  orig: 256, 256
+  offset: 94, 89
+  index: 4
+WitchDoctorA_Idle
+  rotate: false
+  xy: 937, 732
+  size: 68, 97
+  orig: 256, 256
+  offset: 94, 88
+  index: 22
+WitchDoctorA_Idle
+  rotate: false
+  xy: 943, 633
+  size: 68, 97
+  orig: 256, 256
+  offset: 94, 89
+  index: 6
+WitchDoctorA_Idle
+  rotate: false
+  xy: 945, 534
+  size: 68, 97
+  orig: 256, 256
+  offset: 94, 89
+  index: 5
+WitchDoctorB_Attack
+  rotate: false
+  xy: 236, 1945
+  size: 116, 101
+  orig: 256, 256
+  offset: 96, 88
+  index: 11
+WitchDoctorB_Attack
+  rotate: false
+  xy: 2, 1731
+  size: 115, 102
+  orig: 256, 256
+  offset: 95, 87
+  index: 10
+WitchDoctorB_Attack
+  rotate: false
+  xy: 2, 1627
+  size: 115, 102
+  orig: 256, 256
+  offset: 96, 89
+  index: 12
+WitchDoctorB_Attack
+  rotate: false
+  xy: 2, 1516
+  size: 97, 109
+  orig: 256, 256
+  offset: 62, 90
+  index: 19
+WitchDoctorB_Attack
+  rotate: false
+  xy: 2, 1406
+  size: 97, 108
+  orig: 256, 256
+  offset: 62, 89
+  index: 20
+WitchDoctorB_Attack
+  rotate: false
+  xy: 2, 1297
+  size: 97, 107
+  orig: 256, 256
+  offset: 62, 89
+  index: 21
+WitchDoctorB_Attack
+  rotate: false
+  xy: 2, 1186
+  size: 95, 109
+  orig: 256, 256
+  offset: 64, 91
+  index: 18
+WitchDoctorB_Attack
+  rotate: false
+  xy: 2, 1077
+  size: 96, 107
+  orig: 256, 256
+  offset: 63, 88
+  index: 22
+WitchDoctorB_Attack
+  rotate: false
+  xy: 2, 969
+  size: 95, 106
+  orig: 256, 256
+  offset: 64, 88
+  index: 23
+WitchDoctorB_Attack
+  rotate: false
+  xy: 2, 859
+  size: 92, 108
+  orig: 256, 256
+  offset: 67, 92
+  index: 17
+WitchDoctorB_Attack
+  rotate: false
+  xy: 451, 1943
+  size: 95, 103
+  orig: 256, 256
+  offset: 97, 91
+  index: 13
+WitchDoctorB_Attack
+  rotate: false
+  xy: 548, 1941
+  size: 92, 105
+  orig: 256, 256
+  offset: 94, 86
+  index: 9
+WitchDoctorB_Attack
+  rotate: false
+  xy: 642, 1939
+  size: 91, 107
+  orig: 256, 256
+  offset: 68, 88
+  index: 24
+WitchDoctorB_Attack
+  rotate: false
+  xy: 185, 523
+  size: 83, 109
+  orig: 256, 256
+  offset: 77, 92
+  index: 16
+WitchDoctorB_Attack
+  rotate: false
+  xy: 265, 634
+  size: 79, 106
+  orig: 256, 256
+  offset: 94, 87
+  index: 6
+WitchDoctorB_Attack
+  rotate: false
+  xy: 262, 88
+  size: 84, 106
+  orig: 256, 256
+  offset: 94, 86
+  index: 8
+WitchDoctorB_Attack
+  rotate: false
+  xy: 598, 1736
+  size: 83, 107
+  orig: 256, 256
+  offset: 76, 88
+  index: 25
+WitchDoctorB_Attack
+  rotate: false
+  xy: 683, 1735
+  size: 83, 105
+  orig: 256, 256
+  offset: 94, 87
+  index: 7
+WitchDoctorB_Attack
+  rotate: false
+  xy: 418, 87
+  size: 67, 107
+  orig: 256, 256
+  offset: 94, 87
+  index: 29
+WitchDoctorB_Attack
+  rotate: false
+  xy: 401, 1526
+  size: 67, 108
+  orig: 256, 256
+  offset: 95, 92
+  index: 15
+WitchDoctorB_Attack
+  rotate: false
+  xy: 568, 102
+  size: 68, 107
+  orig: 256, 256
+  offset: 91, 88
+  index: 26
+WitchDoctorB_Attack
+  rotate: false
+  xy: 486, 1419
+  size: 67, 106
+  orig: 256, 256
+  offset: 93, 88
+  index: 27
+WitchDoctorB_Attack
+  rotate: false
+  xy: 576, 771
+  size: 68, 106
+  orig: 256, 256
+  offset: 94, 87
+  index: 3
+WitchDoctorB_Attack
+  rotate: false
+  xy: 546, 1528
+  size: 68, 106
+  orig: 256, 256
+  offset: 94, 86
+  index: 0
+WitchDoctorB_Attack
+  rotate: false
+  xy: 560, 1312
+  size: 74, 106
+  orig: 256, 256
+  offset: 94, 87
+  index: 5
+WitchDoctorB_Attack
+  rotate: false
+  xy: 635, 988
+  size: 68, 106
+  orig: 256, 256
+  offset: 94, 87
+  index: 2
+WitchDoctorB_Attack
+  rotate: false
+  xy: 644, 880
+  size: 68, 106
+  orig: 256, 256
+  offset: 93, 88
+  index: 28
+WitchDoctorB_Attack
+  rotate: false
+  xy: 625, 1420
+  size: 71, 106
+  orig: 256, 256
+  offset: 94, 87
+  index: 4
+WitchDoctorB_Attack
+  rotate: false
+  xy: 648, 1097
+  size: 68, 105
+  orig: 256, 256
+  offset: 94, 87
+  index: 1
+WitchDoctorB_Attack
+  rotate: false
+  xy: 698, 1422
+  size: 68, 105
+  orig: 256, 256
+  offset: 96, 92
+  index: 14
+WitchDoctorB_Cast
+  rotate: false
+  xy: 2, 749
+  size: 91, 108
+  orig: 256, 256
+  offset: 94, 88
+  index: 7
+WitchDoctorB_Cast
+  rotate: false
+  xy: 2, 528
+  size: 90, 109
+  orig: 256, 256
+  offset: 94, 88
+  index: 9
+WitchDoctorB_Cast
+  rotate: false
+  xy: 2, 417
+  size: 90, 109
+  orig: 256, 256
+  offset: 94, 88
+  index: 24
+WitchDoctorB_Cast
+  rotate: false
+  xy: 2, 306
+  size: 90, 109
+  orig: 256, 256
+  offset: 94, 88
+  index: 8
+WitchDoctorB_Cast
+  rotate: false
+  xy: 2, 84
+  size: 89, 109
+  orig: 256, 256
+  offset: 94, 88
+  index: 20
+WitchDoctorB_Cast
+  rotate: false
+  xy: 735, 1939
+  size: 91, 107
+  orig: 256, 256
+  offset: 94, 88
+  index: 6
+WitchDoctorB_Cast
+  rotate: false
+  xy: 1014, 1938
+  size: 90, 108
+  orig: 256, 256
+  offset: 94, 88
+  index: 25
+WitchDoctorB_Cast
+  rotate: false
+  xy: 1198, 1937
+  size: 89, 109
+  orig: 256, 256
+  offset: 94, 88
+  index: 12
+WitchDoctorB_Cast
+  rotate: false
+  xy: 1289, 1937
+  size: 89, 109
+  orig: 256, 256
+  offset: 94, 88
+  index: 17
+WitchDoctorB_Cast
+  rotate: false
+  xy: 1380, 1937
+  size: 89, 109
+  orig: 256, 256
+  offset: 94, 88
+  index: 22
+WitchDoctorB_Cast
+  rotate: false
+  xy: 1471, 1937
+  size: 89, 109
+  orig: 256, 256
+  offset: 94, 88
+  index: 14
+WitchDoctorB_Cast
+  rotate: false
+  xy: 1653, 1937
+  size: 89, 109
+  orig: 256, 256
+  offset: 94, 88
+  index: 19
+WitchDoctorB_Cast
+  rotate: false
+  xy: 1744, 1937
+  size: 89, 109
+  orig: 256, 256
+  offset: 94, 88
+  index: 11
+WitchDoctorB_Cast
+  rotate: false
+  xy: 1835, 1937
+  size: 89, 109
+  orig: 256, 256
+  offset: 94, 88
+  index: 16
+WitchDoctorB_Cast
+  rotate: false
+  xy: 1926, 1937
+  size: 89, 109
+  orig: 256, 256
+  offset: 94, 88
+  index: 21
+WitchDoctorB_Cast
+  rotate: false
+  xy: 96, 857
+  size: 89, 109
+  orig: 256, 256
+  offset: 94, 88
+  index: 13
+WitchDoctorB_Cast
+  rotate: false
+  xy: 95, 746
+  size: 89, 109
+  orig: 256, 256
+  offset: 94, 88
+  index: 18
+WitchDoctorB_Cast
+  rotate: false
+  xy: 95, 637
+  size: 89, 107
+  orig: 256, 256
+  offset: 94, 88
+  index: 26
+WitchDoctorB_Cast
+  rotate: false
+  xy: 94, 526
+  size: 89, 109
+  orig: 256, 256
+  offset: 94, 88
+  index: 10
+WitchDoctorB_Cast
+  rotate: false
+  xy: 94, 415
+  size: 89, 109
+  orig: 256, 256
+  offset: 94, 88
+  index: 23
+WitchDoctorB_Cast
+  rotate: false
+  xy: 94, 304
+  size: 89, 109
+  orig: 256, 256
+  offset: 94, 88
+  index: 15
+WitchDoctorB_Cast
+  rotate: false
+  xy: 352, 1837
+  size: 89, 106
+  orig: 256, 256
+  offset: 94, 88
+  index: 5
+WitchDoctorB_Cast
+  rotate: false
+  xy: 185, 196
+  size: 86, 106
+  orig: 256, 256
+  offset: 94, 88
+  index: 4
+WitchDoctorB_Cast
+  rotate: false
+  xy: 273, 196
+  size: 82, 106
+  orig: 256, 256
+  offset: 94, 88
+  index: 27
+WitchDoctorB_Cast
+  rotate: false
+  xy: 1430, 1736
+  size: 82, 105
+  orig: 256, 256
+  offset: 94, 88
+  index: 3
+WitchDoctorB_Cast
+  rotate: false
+  xy: 686, 1529
+  size: 72, 105
+  orig: 256, 256
+  offset: 94, 88
+  index: 29
+WitchDoctorB_Cast
+  rotate: false
+  xy: 768, 1433
+  size: 76, 104
+  orig: 256, 256
+  offset: 94, 88
+  index: 1
+WitchDoctorB_Cast
+  rotate: false
+  xy: 709, 1208
+  size: 75, 105
+  orig: 256, 256
+  offset: 94, 88
+  index: 28
+WitchDoctorB_Cast
+  rotate: false
+  xy: 776, 1327
+  size: 74, 104
+  orig: 256, 256
+  offset: 94, 88
+  index: 0
+WitchDoctorB_Cast
+  rotate: false
+  xy: 852, 1331
+  size: 78, 104
+  orig: 256, 256
+  offset: 94, 88
+  index: 2
+WitchDoctorB_Idle
+  rotate: false
+  xy: 348, 87
+  size: 68, 107
+  orig: 256, 256
+  offset: 94, 87
+  index: 0
+WitchDoctorB_Idle
+  rotate: false
+  xy: 269, 968
+  size: 68, 107
+  orig: 256, 256
+  offset: 94, 86
+  index: 10
+WitchDoctorB_Idle
+  rotate: false
+  xy: 594, 320
+  size: 68, 106
+  orig: 256, 256
+  offset: 94, 86
+  index: 13
+WitchDoctorB_Idle
+  rotate: false
+  xy: 596, 211
+  size: 68, 107
+  orig: 256, 256
+  offset: 94, 86
+  index: 9
+WitchDoctorB_Idle
+  rotate: false
+  xy: 638, 102
+  size: 68, 107
+  orig: 256, 256
+  offset: 94, 87
+  index: 1
+WitchDoctorB_Idle
+  rotate: false
+  xy: 490, 1311
+  size: 68, 106
+  orig: 256, 256
+  offset: 94, 87
+  index: 5
+WitchDoctorB_Idle
+  rotate: false
+  xy: 499, 1203
+  size: 68, 106
+  orig: 256, 256
+  offset: 94, 87
+  index: 18
+WitchDoctorB_Idle
+  rotate: false
+  xy: 507, 1095
+  size: 69, 106
+  orig: 256, 256
+  offset: 94, 88
+  index: 23
+WitchDoctorB_Idle
+  rotate: false
+  xy: 565, 987
+  size: 68, 106
+  orig: 256, 256
+  offset: 94, 87
+  index: 2
+WitchDoctorB_Idle
+  rotate: false
+  xy: 574, 879
+  size: 68, 106
+  orig: 256, 256
+  offset: 94, 86
+  index: 15
+WitchDoctorB_Idle
+  rotate: false
+  xy: 584, 663
+  size: 68, 106
+  orig: 256, 256
+  offset: 94, 87
+  index: 7
+WitchDoctorB_Idle
+  rotate: false
+  xy: 593, 555
+  size: 68, 106
+  orig: 256, 256
+  offset: 94, 87
+  index: 20
+WitchDoctorB_Idle
+  rotate: false
+  xy: 595, 447
+  size: 68, 106
+  orig: 256, 256
+  offset: 94, 86
+  index: 12
+WitchDoctorB_Idle
+  rotate: false
+  xy: 555, 1420
+  size: 68, 106
+  orig: 256, 256
+  offset: 94, 87
+  index: 4
+WitchDoctorB_Idle
+  rotate: false
+  xy: 569, 1204
+  size: 68, 106
+  orig: 256, 256
+  offset: 94, 88
+  index: 22
+WitchDoctorB_Idle
+  rotate: false
+  xy: 578, 1096
+  size: 68, 106
+  orig: 256, 256
+  offset: 94, 86
+  index: 14
+WitchDoctorB_Idle
+  rotate: false
+  xy: 646, 772
+  size: 68, 106
+  orig: 256, 256
+  offset: 94, 87
+  index: 6
+WitchDoctorB_Idle
+  rotate: false
+  xy: 654, 664
+  size: 68, 106
+  orig: 256, 256
+  offset: 94, 87
+  index: 19
+WitchDoctorB_Idle
+  rotate: false
+  xy: 663, 556
+  size: 68, 106
+  orig: 256, 256
+  offset: 94, 86
+  index: 11
+WitchDoctorB_Idle
+  rotate: false
+  xy: 665, 448
+  size: 68, 106
+  orig: 256, 256
+  offset: 94, 87
+  index: 3
+WitchDoctorB_Idle
+  rotate: false
+  xy: 616, 1528
+  size: 68, 106
+  orig: 256, 256
+  offset: 94, 86
+  index: 16
+WitchDoctorB_Idle
+  rotate: false
+  xy: 636, 1312
+  size: 68, 106
+  orig: 256, 256
+  offset: 94, 87
+  index: 8
+WitchDoctorB_Idle
+  rotate: false
+  xy: 639, 1204
+  size: 68, 106
+  orig: 256, 256
+  offset: 94, 88
+  index: 21
+WitchDoctorB_Idle
+  rotate: false
+  xy: 706, 1315
+  size: 68, 105
+  orig: 256, 256
+  offset: 94, 87
+  index: 17

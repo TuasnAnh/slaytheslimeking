@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/slaytheslimeking/static/css/main.d19ea611.css",
+    "main.js": "/slaytheslimeking/static/js/main.cce3865d.js",
+    "static/media/bg.png": "/slaytheslimeking/static/media/bg.6afdc984f7b2775b501e.png",
+    "static/media/boss.png": "/slaytheslimeking/static/media/boss.effafa8f0aaaa717a0e9.png",
+    "static/media/result-bg.png": "/slaytheslimeking/static/media/result-bg.ab042411eae829040d9d.png",
+    "static/media/Jomhuria-Regular.ttf": "/slaytheslimeking/static/media/Jomhuria-Regular.f07fb18b3c075bd07622.ttf",
+    "static/media/text-logo.png": "/slaytheslimeking/static/media/text-logo.bab96437c0ecf53f625e.png",
+    "static/media/top-pannel.png": "/slaytheslimeking/static/media/top-pannel.aa03862efb9a4c481bb0.png",
+    "static/media/chest_top.png": "/slaytheslimeking/static/media/chest_top.4645b69652e8d03903f0.png",
+    "static/media/chest-bottom.png": "/slaytheslimeking/static/media/chest-bottom.299d355232200e02992f.png",
+    "static/media/Roster_Selection.png": "/slaytheslimeking/static/media/Roster_Selection.ca5f8eda9c9a0fa28da3.png",
+    "index.html": "/slaytheslimeking/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.d19ea611.css",
+    "static/js/main.cce3865d.js"
+  ]
+}
